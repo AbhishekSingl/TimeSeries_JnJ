@@ -1,2 +1,2 @@
-# TimeSeries_JnJ
-Timeseries forecasting for JnJ Quarterly Earnings
+# Johnson and Johnson Time Series Analysis
+Forecasting for J&J Earnings
